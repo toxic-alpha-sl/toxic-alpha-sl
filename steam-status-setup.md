@@ -1,3 +1,7 @@
+layout: page
+title: "Steam Status Setup"
+permalink: /steam-status-setup
+
 ## How to Get Your Steam API Key, User ID, and Set Your Profile to Public
 
 ### 1. Get Your Steam API Key
